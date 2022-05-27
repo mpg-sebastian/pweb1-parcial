@@ -1,0 +1,17 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    background-color: #1a1a1a;
+}
+
+.container {
+    padding: 0;
+    height: 100vh;
+}
+
+#table-randoms {
+    
+}
